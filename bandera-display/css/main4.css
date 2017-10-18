@@ -1,0 +1,14 @@
+p {
+  display:  inline;
+  padding: 1em;
+  text-align: center;
+}
+
+.orange {
+  background-color: rgb(255, 198, 26);
+}
+
+.black {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}

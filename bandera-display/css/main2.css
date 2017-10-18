@@ -1,0 +1,14 @@
+p {
+  display:  block;
+  margin-right: 70em;
+  padding: 0.5em 0em 3em 0.5em;
+}
+
+.orange {
+  background-color: rgb(255, 198, 26);
+}
+
+.black {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
